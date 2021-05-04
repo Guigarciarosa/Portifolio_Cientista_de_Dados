@@ -1,10 +1,16 @@
+
+
 h3 {
     background-color: #203572;
     color: #3FC7DF;
     font-size: medium;
     font: 'Calibri';
+    text-align: center;
 }
-
+button {
+    background-color: #203572;
+    color: #3FC7DF;
+}
 h4 {
     color: #3FC7DF;
     font: 'Calibri';
@@ -15,4 +21,37 @@ h1 {
     color: #3FC7DF;
     font-size: x-large;
     font: 'Arial';
+}
+
+nav {
+    background-color: #D6D6D6;
+    color: #3FC7DF;
+    width: 100%;
+
+}
+#Menu ul{
+    margin: 0px;
+    text-align: justify;
+    padding: 0px;
+    font: 'Calibri';
+    list-style: none;
+    color: #3FC7DF;
+}
+#Menu ul li {
+    display: inline;
+}
+#Menu ul li a {
+    padding: 2px 10px;
+    display: inline-block;
+
+    /* visual do link */
+    background-color:#203572;
+    color: #3FC7DF;
+    text-decoration: none;
+    border-bottom:3px solid #EDEDED;
+}
+#Menu ul li a:hover {
+    background-color:#D6D6D6;
+    color: #6D6D6D;
+    border-bottom:3px solid #203572;
 }
