@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(168, 195, 252);
+    background-color: rgb(253, 253, 255);
 }
 
 h3 {
@@ -8,6 +8,7 @@ h3 {
     font-size: medium;
     font: 'Calibri';
     text-align: center;
+    font-style: inherit;
 }
 button {
     background-color: #203572;
