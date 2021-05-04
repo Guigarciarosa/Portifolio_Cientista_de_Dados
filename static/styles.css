@@ -1,4 +1,6 @@
-
+body {
+    background-color: rgb(168, 195, 252);
+}
 
 h3 {
     background-color: #203572;
@@ -55,3 +57,4 @@ nav {
     color: #6D6D6D;
     border-bottom:3px solid #203572;
 }
+
