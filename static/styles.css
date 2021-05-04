@@ -2,5 +2,17 @@ h3 {
     background-color: #203572;
     color: #3FC7DF;
     font-size: medium;
-    font: 'Archivo Black';
+    font: 'Calibri';
+}
+
+h4 {
+    color: #3FC7DF;
+    font: 'Calibri';
+    font-size: medium;
+}
+
+h1 {
+    color: #3FC7DF;
+    font-size: x-large;
+    font: 'Arial';
 }
